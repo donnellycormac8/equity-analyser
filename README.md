@@ -42,7 +42,7 @@ Requires Python 3.10 or later.
 
 ```bash
 # 1. Get the code
-git clone https://github.com/<your-username>/equity-analyser.git
+git clone https://github.com/donnellycormac8/equity-analyser.git
 cd equity-analyser
 
 # 2. Create and activate a virtual environment

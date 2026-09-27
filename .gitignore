@@ -1,0 +1,14 @@
+# Python virtual environment (recreate with: python3 -m venv .venv)
+.venv/
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+
+# macOS folder metadata
+.DS_Store
+
+# Generated output, recreated on every run.
+# A sample report is kept in examples/ instead.
+charts/
+reports/
